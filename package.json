@@ -1,0 +1,6 @@
+{
+  "name": "agent-mela-app-de-recordatorios-de-medica-morovfs7",
+  "version": "1.0.0",
+  "description": "Proyecto de Mela [Gen17]: app de recordatorios de medicamentos con alertas",
+  "main": "index.js"
+}
